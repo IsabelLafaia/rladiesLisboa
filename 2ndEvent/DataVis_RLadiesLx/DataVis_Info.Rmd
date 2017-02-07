@@ -7,11 +7,9 @@ output: html_document
 
 #### 1. Brief Introduction for Meetup
 
-Este workshop é para todas e todos os que querem aprender R ou actualizar alguns conceitos básicos de R e partilhar conhecimento também! Será possível começar logo a programar em R e a produzir alguns exemplos úteis de visualização de dados. Este é o primeiro passo para te motivar a aprender mais sobre dados e a contar boas histórias com os mesmos.
+Este workshop é para todas e todos os que querem aprender R ou relembrar alguns conceitos básicos de R e partilhar conhecimento também! Será possível começar logo a programar em R e a produzir alguns exemplos úteis de visualização de dados. Este é o primeiro passo para te motivar a aprender mais sobre dados e a contar boas histórias com os mesmos.
 
-***
-
-This workshop is for who wants to learn R or refresh some basic concepts in R and share some knowledge too! You'll be able to start right away with the R language and produce some useful data visualizations. This is a first step to motivate you to understand more about data and tell good stories with it.
+***This workshop is for everyone wanting to learn R or to refresh some basic concepts in R and to share some knowledge too! You'll be able to start right away with the R language and produce some useful data visualizations. This is a first step to motivate you to understand more about data and tell good stories with it.***
 
 
 #### 2. Useful links
@@ -21,9 +19,7 @@ This workshop is for who wants to learn R or refresh some basic concepts in R an
 * https://www.thinkwithgoogle.com/articles/data-to-insights-blueprint-for-your-business.html
 
 
-#### **3. Instructions pre-workshop**
-
-<span style = "color: green"> Add instructions to download R and install R studio</span>
+#### **3. Pre-workshop instructions**
 
 # Instalação de R e R-Studio ***(Installing R and R-Studio)***
 
@@ -162,22 +158,30 @@ Quando o download estiver completo, vá à pasta ‘Downloads’ e clique 2-veze
 
 4.1. Objectives
 
-This workshop aims at introducing the R language to non-users by enabling them to make simple data visualizations. People who had previously contacted with R will also benefit from this workshop by refreshing previous concepts and sharing ideas and critical thinking with others. 
+Este workshop tem o objectivo de apresentar a linguagem R a novos utilizadores permitindo-lhes produzir visualizações simples de dados. Quem já tenha utilizado R no passado poderá também beneficiar deste workshop ao relembrar conceitos básicos e partilhar ideias com os outros.
 
-At the end of the workshop participants should:
-* Understand what is R and it's usage 
-* Be able to use specific code and change some of it's arguments to customize the output
-* Use a specific dataset, select specific variables and produce a data visualization 
-
-<span style = "color: green">Add PT version</span>
+No fim deste workshop os participantes serão capazes de:
+* compreender o que é o R e qual a sua utilidade,
+* utilizar e alterar código em R para alterar o resultado da execução,
+* utilizar uma base de dados específica, seleccionar variáveis e produzir visualizações dos dados.
 
 
-4.2. Scope
+**This workshop aims at introducing the R language to non-users by enabling them to make simple data visualizations. People who had previously contacted with R will also benefit from this workshop by refreshing previous concepts and sharing ideas and critical thinking with others.**
+
+**At the end of the workshop participants should:**
+* **Understand what is R and it's usage**
+* **Be able to use specific code and change some of it's arguments to customize the output**
+* **Use a specific dataset, select specific variables and produce a data visualization**
+
+
+
+##### 4.2. Scope
+
 A brief introduction to R and to some data visualization associated packages and functions will be given. However, R grammar and syntax will not be covered in detail for this workshop.
 Data analysis and data analysis interpretation will be out of the scope for this workshop. This can be covered in a future workshop
 
 
-4.3. Plano/Programa 
+##### 4.3. Plano/Programa 
 
 
 **Para nós**
@@ -200,7 +204,7 @@ Data analysis and data analysis interpretation will be out of the scope for this
 
 10h30 - Prática - Reprodução do mesmo código - Para quem conseguir fazer, sugestão de alteração de alguns argumentos
 
-11h15 - 11h30 - Cafézinho e Comida! 
+11h15 - Coffee break! 
 
 11h40 - Exercício 2 - mostrar outro exemplo de código e introduzir 3 exemplos de bases de dados
 
@@ -227,7 +231,7 @@ Data analysis and data analysis interpretation will be out of the scope for this
 
 10h30 - Exercício 1
 
-11h15 - 11h30 - Cafézinho e Comida! 
+11h15 - Coffee break! 
 
 11h40 - Exercício 2 
 
@@ -246,14 +250,28 @@ Data analysis and data analysis interpretation will be out of the scope for this
 
 10h30 - Exercícios
 
-11h15 - 11h30 - Cafézinho e Comida! 
+11h15 - - Coffee break! 
 
 11h40 - Exercícios
 
 12h30 - Finalização do workshop 
 
 
-<span style = "color: green"> **Add english version** </span>
+**9h15 - Welcoming the guests**
+
+**9h30 - Introducting the R-Ladies Lisbon community**
+
+**10h - Introducing data visualization**
+
+**10h30 - Practical exercises**
+
+**11h15 - Coffee break!**
+
+**11h40 - Practical exercises**
+
+**12h30 - Closing of the workshop**
+
+
 
 
 3.4. Content
